@@ -1,10 +1,4 @@
 """
-Programme Name: BSc. Computing
-Module Title: Emerging Technologies (SWE6206)
-StudentID: 2011184
-Marking Tutor: P. Hewage
-Date of Submission: 15/01/2023
-
 Please, note that some parts of the code are commented out, that is due to the fact that not everything is supposed to run at once.  
 """
 
@@ -26,7 +20,7 @@ from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 from scipy.stats import zscore
 
 #Importing and reading the dataset
-df = pd.read_csv('C:/Users/bogoi/Desktop/Computing/Year 3/Emerging Technologies - SWE6206/Assignments/Assignment 2/GoldUP.csv')
+df = pd.read_csv('data/GoldUP.csv')
 
 #Analysing the dataset 
 #print(df.head())
@@ -124,4 +118,5 @@ plt.title("Distribution of Real vs. Predicted Values (Decision Tree)")
 ax1=sns.distplot(y_test, hist=False)
 sns.distplot(yhat, hist=False, ax=ax1)
 plt.show()
+
 
