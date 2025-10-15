@@ -1,0 +1,20 @@
+
+### `CITATION.cff`
+```yaml
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Gold Price Forecasting (INR) — Linear Regression vs Decision Tree"
+authors:
+  - family-names: "Iliev"
+    given-names: "Bogomil"
+repository-code: "https://github.com/bogomil-iliev/gold-price-ml"
+license: "MIT"
+keywords: ["time series","regression","decision tree","linear regression","scikit-learn","gold price","INR"]
+preferred-citation:
+  type: report
+  title: "Gold Forecasting with Machine Learning"
+  authors:
+    - family-names: "Iliev"
+      given-names: "Bogomil"
+  year: 2023
+  url: "https://github.com/bogomil-iliev/gold-price-ml/blob/main/docs/SWE6206_A2_Report_2011184.pdf"
