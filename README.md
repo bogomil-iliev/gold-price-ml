@@ -31,6 +31,12 @@ or run **scripts/Full_Script.py**
 
 See results/figures/*.png.
 
+<img width="751" height="543" alt="Distribution_Real_vs_Predicted_MLR" src="https://github.com/user-attachments/assets/65b72ed8-b495-41df-8724-03fd600f44c0" />
+<img width="744" height="556" alt="Distribution_Real_vs_Predicted_DT" src="https://github.com/user-attachments/assets/8d732d6c-128d-4986-9528-22c753c6b88c" />
+<img width="412" height="86" alt="Report_of_Results_MLR" src="https://github.com/user-attachments/assets/98ac62eb-15e6-4091-b8b8-27fc0c3ddeca" />
+<img width="407" height="68" alt="Report_of_Results_DT" src="https://github.com/user-attachments/assets/63ae1e80-6131-41f8-99be-6abfcdee80cc" />
+
+
 ## Repo map
 ```pgsql
 scripts/ … train_lr.py, train_tree.py, Full_Script.py
