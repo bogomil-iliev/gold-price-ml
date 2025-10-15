@@ -48,3 +48,10 @@ results/ … results and generated plots
 ## Notes
   - Research/education only.
   - Do not commit proprietary datasets; keep data paths relative.
+
+## License
+**MIT**
+
+## Citation
+[➡️ Cite this repository](./CITATION.cff)
+
