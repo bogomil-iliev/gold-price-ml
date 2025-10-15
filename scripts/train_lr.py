@@ -20,7 +20,7 @@ from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 from scipy.stats import zscore
 
 #Importing and reading the dataset
-df = pd.read_csv('C:/Users/bogoi/Desktop/Computing/Year 3/Emerging Technologies - SWE6206/Assignments/Assignment 2/GoldUP.csv')
+df = pd.read_csv('data/GoldUP.csv')
 
 #Analysing the dataset 
 #print(df.head())
